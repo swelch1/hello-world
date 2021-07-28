@@ -1,1 +1,3 @@
+added this new line in here to see how git diff works
+
 hello world - making a repository. did a mistake last time whoops
